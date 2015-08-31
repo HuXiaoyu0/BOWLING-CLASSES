@@ -5,7 +5,7 @@ example.txt and 2010_US_Open.txt
 
 Valid command line example:
 bowling_scores.exe 2010_US_Open.txt out_2010_US_Open.txt
-                   (input file name)(Out put file name)
+
 Output file example:
 ------------------------------------------------------------------------------
 | Fred Adams   | 2 - | 1 5 | 6 / |   X | 2 2 | - - | - 8 | 2 / | 2 3 | - 2   |
